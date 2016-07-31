@@ -105,9 +105,12 @@ a Stratum 0 device to keep its time synchronized within a few microseconds.
 Stratum 2 devices synchronize their time with one or more Stratum 1 devices,
 and so on. [^ntp]
 
-[![Network Time Protocol Strata](/assets/img/ntp_clients_and_servers.svg){:height="420px" width="470px"}](https://en.wikipedia.org/wiki/Network_Time_Protocol#Clock_strata)
-
-*Image courtesy of [Benjamin D.  Esham](https://en.wikipedia.org/wiki/Network_Time_Protocol#/media/File:Network_Time_Protocol_servers_and_clients.svg)*
+{% include post_figure.html
+    url="/assets/img/ntp_clients_and_servers.svg"
+    height="420px"
+    width="470px"
+    alt="Network Time Protocol Strata"
+    caption="Network Time Protocol Strata (courtesy of <a href=\"https://en.wikipedia.org/wiki/Network_Time_Protocol#/media/File:Network_Time_Protocol_servers_and_clients.svg\">Benjamin D.  Esham</a>)" %}
 
 Unless you have your own atomic clock, your server, notebook, or desktop
 computer will usually fetch time from one or more Stratum 3 (or above) servers
@@ -327,10 +330,8 @@ stopwatch.start();
 doSomething();
 long micros = stopwatch.elapsed(TimeUnit.MICROSECONDS);
 
-System.out.println(format(&quot;doSomething() took %s µs&quot;, micros));
+System.out.println(format("doSomething() took %s µs", micros));
 ~~~
-
----
 
 [^sources]:
     This has been greatly simplified. It does not take into consideration things
