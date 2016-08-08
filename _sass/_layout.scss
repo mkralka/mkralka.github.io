@@ -240,6 +240,18 @@
         }
     }
 
+    dt {
+        font-weight: bold;
+        text-decoration: underline;
+    }
+    dt:after {
+        content: ":";
+    }
+    dd {
+        margin: 0 0 0 5em;
+        padding: 0 0 0.5em 0;
+    }
+
     // Subtle ". . ." section separator
     hr {
         display: block;
