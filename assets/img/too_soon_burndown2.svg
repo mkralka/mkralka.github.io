@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg 
+   xmlns="http://www.w3.org/2000/svg"
+   width="600" height="370"
+   aria-label="A chart."
+   style="overflow: hidden;">
+<defs id="defs">
+<clipPath id="_ABSTRACT_RENDERER_ID_621">
+<rect x="115" y="71" width="371" height="229">
+</rect>
+</clipPath>
+</defs>
+<rect x="0" y="0" width="600" height="371" stroke="none" stroke-width="0" fill="#ffffff">
+</rect>
+<g>
+<text text-anchor="start" x="115" y="49.6" font-family="Arial" font-size="16" font-weight="bold" stroke="none" stroke-width="0" fill="#000000">Burn Down Chart for Operation: Flying Train</text>
+<rect x="115" y="36" width="371" height="16" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff">
+</rect>
+</g>
+<g>
+<rect x="115" y="71" width="371" height="229" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff">
+</rect>
+<g clip-path="url(https://docs.google.com/spreadsheets/d/1KBlm6r6vi7fgM-2qUEmkCa9tEndP-fzJ_GWJpwmkGH4/edit#_ABSTRACT_RENDERER_ID_621)">
+<g>
+<rect x="115" y="299" width="371" height="1" stroke="none" stroke-width="0" fill="#cccccc">
+</rect>
+<rect x="115" y="242" width="371" height="1" stroke="none" stroke-width="0" fill="#cccccc">
+</rect>
+<rect x="115" y="185" width="371" height="1" stroke="none" stroke-width="0" fill="#cccccc">
+</rect>
+<rect x="115" y="128" width="371" height="1" stroke="none" stroke-width="0" fill="#cccccc">
+</rect>
+<rect x="115" y="71" width="371" height="1" stroke="none" stroke-width="0" fill="#cccccc">
+</rect>
+</g>
+<g>
+<rect x="115" y="299" width="371" height="1" stroke="none" stroke-width="0" fill="#333333">
+</rect>
+</g>
+<g>
+<path d="M128.71428571428572,114.25L155.14285714285714,128.5L181.57142857142856,142.75L208,157L234.42857142857142,171.25L260.8571428571429,185.5L287.2857142857143,199.75L313.71428571428567,214L340.1428571428571,228.25L366.57142857142856,242.5L393,256.75L419.4285714285714,271L445.85714285714283,285.25L472.2857142857143,299.5" stroke="#3366cc" stroke-width="2" fill-opacity="1" fill="none">
+</path>
+<path d="M128.71428571428572,114.25L155.14285714285714,121.375L181.57142857142856,121.375L208,121.375L234.42857142857142,121.375L260.8571428571429,121.375L287.2857142857143,121.375L313.71428571428567,157L340.1428571428571,157" stroke="#dc3912" stroke-width="2" fill-opacity="1" fill="none">
+</path>
+</g>
+</g>
+<g>
+<circle cx="128.71428571428572" cy="114.25" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="155.14285714285714" cy="128.5" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="181.57142857142856" cy="142.75" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="208" cy="157" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="234.42857142857142" cy="171.25" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="260.8571428571429" cy="185.5" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="287.2857142857143" cy="199.75" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="313.71428571428567" cy="214" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="340.1428571428571" cy="228.25" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="366.57142857142856" cy="242.5" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="393" cy="256.75" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="419.4285714285714" cy="271" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="445.85714285714283" cy="285.25" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="472.2857142857143" cy="299.5" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+<circle cx="128.71428571428572" cy="114.25" r="2" stroke="none" stroke-width="0" fill="#dc3912">
+</circle>
+<circle cx="155.14285714285714" cy="121.375" r="2" stroke="none" stroke-width="0" fill="#dc3912">
+</circle>
+<circle cx="181.57142857142856" cy="121.375" r="2" stroke="none" stroke-width="0" fill="#dc3912">
+</circle>
+<circle cx="208" cy="121.375" r="2" stroke="none" stroke-width="0" fill="#dc3912">
+</circle>
+<circle cx="234.42857142857142" cy="121.375" r="2" stroke="none" stroke-width="0" fill="#dc3912">
+</circle>
+<circle cx="260.8571428571429" cy="121.375" r="2" stroke="none" stroke-width="0" fill="#dc3912">
+</circle>
+<circle cx="287.2857142857143" cy="121.375" r="2" stroke="none" stroke-width="0" fill="#dc3912">
+</circle>
+<circle cx="313.71428571428567" cy="157" r="2" stroke="none" stroke-width="0" fill="#dc3912">
+</circle>
+<circle cx="340.1428571428571" cy="157" r="2" stroke="none" stroke-width="0" fill="#dc3912">
+</circle>
+</g>
+<g>
+<g>
+<text text-anchor="middle" x="128.71428571428572" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">0</text>
+</g>
+<g>
+<text text-anchor="middle" x="155.14285714285714" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">1</text>
+</g>
+<g>
+<text text-anchor="middle" x="181.57142857142856" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">2</text>
+</g>
+<g>
+<text text-anchor="middle" x="208" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">3</text>
+</g>
+<g>
+<text text-anchor="middle" x="234.42857142857142" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">4</text>
+</g>
+<g>
+<text text-anchor="middle" x="260.8571428571429" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">5</text>
+</g>
+<g>
+<text text-anchor="middle" x="287.2857142857143" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">6</text>
+</g>
+<g>
+<text text-anchor="middle" x="313.71428571428567" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">7</text>
+</g>
+<g>
+<text text-anchor="middle" x="340.1428571428571" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">8</text>
+</g>
+<g>
+<text text-anchor="middle" x="366.57142857142856" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">9</text>
+</g>
+<g>
+<text text-anchor="middle" x="393" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">10</text>
+</g>
+<g>
+<text text-anchor="middle" x="419.4285714285714" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">11</text>
+</g>
+<g>
+<text text-anchor="middle" x="445.85714285714283" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">12</text>
+</g>
+<g>
+<text text-anchor="middle" x="472.2857142857143" y="317.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">13</text>
+</g>
+<g>
+<text text-anchor="end" x="103" y="303.7" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#444444">0</text>
+</g>
+<g>
+<text text-anchor="end" x="103" y="246.7" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#444444">8</text>
+</g>
+<g>
+<text text-anchor="end" x="103" y="189.7" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#444444">16</text>
+</g>
+<g>
+<text text-anchor="end" x="103" y="132.7" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#444444">24</text>
+</g>
+<g>
+<text text-anchor="end" x="103" y="75.7" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#444444">32</text>
+</g>
+</g>
+<g>
+<rect x="115" y="78" width="136" height="12" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff">
+</rect>
+<g>
+<rect x="115" y="78" width="55" height="12" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff">
+</rect>
+<g>
+<g>
+<text text-anchor="start" x="144" y="88.2" font-family="Arial" font-size="12" stroke="#ffffff" stroke-width="3" fill="#222222" aria-hidden="true">Ideal</text>
+<text text-anchor="start" x="144" y="88.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">Ideal</text>
+</g>
+</g>
+<path d="M115,84L139,84" stroke="#3366cc" stroke-width="2" fill-opacity="1" fill="none">
+</path>
+<circle cx="127" cy="84" r="2" stroke="none" stroke-width="0" fill="#3366cc">
+</circle>
+</g>
+<g>
+<rect x="189" y="78" width="62" height="12" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff">
+</rect>
+<g>
+<g>
+<text text-anchor="start" x="218" y="88.2" font-family="Arial" font-size="12" stroke="#ffffff" stroke-width="3" fill="#222222" aria-hidden="true">Actual</text>
+<text text-anchor="start" x="218" y="88.2" font-family="Arial" font-size="12" stroke="none" stroke-width="0" fill="#222222">Actual</text>
+</g>
+</g>
+<path d="M189,84L213,84" stroke="#dc3912" stroke-width="2" fill-opacity="1" fill="none">
+</path>
+<circle cx="201" cy="84" r="2" stroke="none" stroke-width="0" fill="#dc3912">
+</circle>
+</g>
+</g>
+</g>
+<g>
+<g>
+<text text-anchor="middle" x="300.5" y="349.2" font-family="Arial" font-size="12" font-style="italic" stroke="none" stroke-width="0" fill="#222222">Week</text>
+<rect x="115" y="339" width="371" height="12" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff">
+</rect>
+</g>
+<g>
+<text text-anchor="middle" x="49.2" y="185.5" font-family="Arial" font-size="12" font-style="italic" transform="rotate(-90 49.2 185.5)" stroke="none" stroke-width="0" fill="#222222">Blocking Functionality Remaining</text>
+<path d="M38.99999999999999,300L39.00000000000001,71L51.00000000000001,71L50.99999999999999,300Z" stroke="none" stroke-width="0" fill-opacity="0" fill="#ffffff">
+</path>
+</g>
+</g>
+<g>
+</g>
+</svg>
