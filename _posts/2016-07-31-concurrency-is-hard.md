@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Concurrency is hard.
+title:  Concurrency is hard
 date:   2016-07-31
 tags:   [Software Engineering, Programming, Concurrency, Java]
 ---
