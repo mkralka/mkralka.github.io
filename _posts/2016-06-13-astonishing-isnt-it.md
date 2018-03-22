@@ -30,6 +30,7 @@ behave as expected.
 
 Keeping users from being astonished leads to an important principle in usability
 design:
+
 > The principle of least astonishment
 >
 > People are part of the system. The design should match the user's experience,
